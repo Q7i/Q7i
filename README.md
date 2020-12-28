@@ -5,11 +5,12 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q7i&theme=dark&hide=html" />
 
 </div>
+<br>
+<br>
+<br>
+<div align="center">
 
-
-__Key PGP PUBLIC__ 
-
-
+<p>
 
 :-----BEGIN PGP PUBLIC KEY BLOCK-----
 iQG2BCABCgAgFiEE8YgMsecoiZHLH8HqDUuSnziuhscFAl/p3OsCHQAACgkQDUuS
@@ -24,3 +25,6 @@ OSnjum0Pv/2aY4RoIcmRra/GQVjzrsBvGjcR0Nx55a52W/fXxYIUJXkasYmrU27U
 FAfgzF0XDgFH
 =qoiB
 -----END PGP PUBLIC KEY BLOCK-----
+
+</p>
+</div>
