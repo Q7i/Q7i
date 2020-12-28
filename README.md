@@ -20,7 +20,7 @@
 
 <p> KEY PGP PUBLIC
 <code>
-:-----BEGIN PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----
   
   
   
@@ -34,9 +34,7 @@ bsntKEkNbnjPRnbxbKa+TgaQrMsGulkJQUFPkupdMtqqzirH/Ave2dczeNGlWE06
 28/i+C8FOoWYXZk0U0OeChFpOSJD3eSmxURoiuzhz/xdcWSe2ppoU9f8vmXe0Rfz
 yFkno/L6SFRZsn9K7oSjT6Xt8XxHYPfVEHSqSZP1qtvxvH4dP4ln+tdJW2ttrxv5
 OSnjum0Pv/2aY4RoIcmRra/GQVjzrsBvGjcR0Nx55a52W/fXxYIUJXkasYmrU27U
-FAfgzF0XDgFH
-=qoiB
-
+FAfgzF0XDgFH=qoiB
 -----END PGP PUBLIC KEY BLOCK-----
   </code>
 </p>
