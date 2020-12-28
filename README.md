@@ -5,21 +5,17 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Q7i&theme=dark&hide=html" />
 <br>
 <br>
-<br><br>
 <br>
-<br><br>
 <br>
-<br><br>
+<br>
 <br>
 <br>
 </div>
-<br>
-<br>
-<br>
+
 <div align="center">
 
 <p>
-
+<code>
 :-----BEGIN PGP PUBLIC KEY BLOCK-----
 iQG2BCABCgAgFiEE8YgMsecoiZHLH8HqDUuSnziuhscFAl/p3OsCHQAACgkQDUuS
 nziuhsduzAwAmv5gvDvGr9Cahh9oLCTGgtKM0+IyH/TuP2WYj7Uv6RbpIZojMP/8
@@ -32,7 +28,8 @@ yFkno/L6SFRZsn9K7oSjT6Xt8XxHYPfVEHSqSZP1qtvxvH4dP4ln+tdJW2ttrxv5
 OSnjum0Pv/2aY4RoIcmRra/GQVjzrsBvGjcR0Nx55a52W/fXxYIUJXkasYmrU27U
 FAfgzF0XDgFH
 =qoiB
------END PGP PUBLIC KEY BLOCK-----
 
+-----END PGP PUBLIC KEY BLOCK-----
+  </code>
 </p>
 </div>
