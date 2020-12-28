@@ -10,11 +10,15 @@
 <br>
 <br>
 <br>
+<br>
+<br><br>
+<br><br>
+<br>
 </div>
 
 <div align="center">
 
-<p>
+<p> KEY PGP PUBLIC
 <code>
 :-----BEGIN PGP PUBLIC KEY BLOCK-----
 iQG2BCABCgAgFiEE8YgMsecoiZHLH8HqDUuSnziuhscFAl/p3OsCHQAACgkQDUuS
